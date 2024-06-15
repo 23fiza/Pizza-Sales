@@ -1,5 +1,6 @@
 # Pizza-Sales
 MYSQL Pizza Sales Prooject
+
 # Objectives
 
 - **Peak Sales Analysis:** Identify peak sales hours/days to optimize staffing and resource allocation.
